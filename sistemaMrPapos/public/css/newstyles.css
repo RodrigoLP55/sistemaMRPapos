@@ -1,0 +1,137 @@
+.fontcolorsidebar { 
+    color: #FFF; 
+}
+
+.fuenteNueva
+{
+    font-family: 'Bakbak One', cursive;
+}
+
+.fuenteBtn
+{
+    font-family: 'Bakbak One', cursive;
+    font-size: 15px;
+}
+
+.fuenteBtnV
+{
+    font-family: 'Bakbak One', cursive;
+    font-size: 16px;
+}
+
+.fuenteEtiqueta
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+
+.fuenteEtiquetaNeg
+{
+    font-family: 'Bakbak One', cursive;
+    font-size: 18px;
+}
+
+.fuenteEtiquetaNegr
+{
+    font-family: 'Bakbak One', cursive;
+    font-size: 19px;
+}
+
+.colorBtn
+{
+    background-color: #00496E;
+}
+
+.colorBtn
+{
+    background-color: #00496E;
+}
+
+.colorBtnAzul
+{
+    background-color: #006CA2;
+}
+
+/*COLORES BTONES*/ 
+/*ELIMINAR*/
+.colorBtnEliminar
+{
+    background-color: #FF3328;
+}
+
+
+
+/*GUARDAR*/
+.colorBtnGuardar
+{
+    background-color: #006CA2; 
+}
+
+/*ATRAS*/
+.colorBtnAtras
+{
+    background-color: #1A7580;
+}
+
+/*ATRAS*/
+.colorBtnSiguiente
+{
+    background-color: #007234;
+}
+
+/*MOSTRAR TODOS*/
+.colorBtnMT
+{
+    background-color: #006CA2;
+}
+
+/*LOGIN*/
+.colorBtnLogin
+{
+    background-color: #6A183B;
+}
+
+
+
+/*---------------------------------FUENTES------------------------------------*/
+
+.TituloFont  /**Semi-bold 600, https://fonts.google.com/specimen/Poppins?query=poppins**/
+{
+   font-family: 'Poppins', sans-serif;
+}
+
+.SubtitleFont /**Medium 500, https://fonts.google.com/specimen/Alata?query=alata**/
+
+{
+   font-family: 'Alata', sans-serif;
+}
+
+.ParagraphFont /**Light 300, https://fonts.google.com/specimen/Quicksand?query=quicksand**/
+{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.ListasFont /**Extra-light 200, https://fonts.google.com/specimen/Archivo?query=archivo**/
+{
+   font-family: 'Archivo', sans-serif;
+}
+
+
+
+.ventaFont
+{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+.fontHeadTable
+{
+    font-family: 'Bakbak One', cursive;
+}
+
+
+.fontBodyTable
+{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px
+}
